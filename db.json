@@ -72,6 +72,18 @@
         "EUR": 0,
         "NTC": 0
       }
+    },
+    {
+      "created_at": "2021-07-14T11:58:26.992Z",
+      "login": "alyalkov@gmail.com",
+      "password": "demo",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
     }
   ],
   "favorites": {
